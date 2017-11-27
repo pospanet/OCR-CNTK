@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+bin
+obj
+*.sln
+__pycache__
+Output/
+*.csproj.user
+PretrainedModels/
+dataset/*.txt

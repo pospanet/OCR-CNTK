@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FIleNameUnifier": {
+      "commandName": "Project",
+      "commandLineArgs": "dir:C:\\Users\\pospa\\Temp\\EY\\aaa"
+    }
+  }
+}
